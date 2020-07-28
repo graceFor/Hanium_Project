@@ -4,5 +4,5 @@ import plantapp.views
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('', plantapp.views.home, name='home'),
+    path('', plantapp.views.index, name='index'),
 ]
