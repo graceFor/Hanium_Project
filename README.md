@@ -7,3 +7,4 @@
      - rose
      - sunflower
      - tulip
+  - [plants]
