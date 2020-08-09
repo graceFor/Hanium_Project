@@ -8,6 +8,8 @@
      - rose
      - sunflower
      - tulip
-   - plants
+   - [plants]
+   - [leaf]
+   - [fruits]
 
-2. [Web](https://github.com/gracefor/hanium_project/tree/master/web)
+2) [Web](https://github.com/gracefor/hanium_project/tree/master/web)
